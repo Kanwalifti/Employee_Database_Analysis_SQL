@@ -1,4 +1,4 @@
-## sql
+# sql
 # Employee Database Project:
 
 In this research project, we investigated the employee data of a corporation from the 1980s and 1990s. The only available records from that era consist of six CSV files.
